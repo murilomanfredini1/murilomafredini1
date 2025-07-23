@@ -1,4 +1,4 @@
-# 🖥 Murilo Manfredini
+# 🧑🏻‍💻 Murilo Manfredini
 
 **`Analista de Suporte N1`**
 
