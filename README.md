@@ -21,8 +21,8 @@
 ### 📖 Sobre Mim
 Sou **Analista de Suporte N1** e graduando no **7º semestre de Ciência da Computação**. Minha trajetória une a experiência técnica em infraestrutura com a paixão pelo desenvolvimento de sistemas.
 
-* ⚙️ **Infra:** Especialista em Servidores Linux/Windows, redes e gestão de DNS/E-mails.
-* ☕ **Dev:** Focado em dominar o ecossistema Java e lógica de programação.
+* ⚙️ **Infra:** Servidores Linux/Windows, redes e gestão de DNS/E-mails.
+* ☕ **Dev:** Estudante de Java, Orientação a Objetos, HTML, CSS, Js e lógica de programação.
 * 🚀 **Objetivo:** Aplicar meu background de infra para construir aplicações backend robustas e escaláveis.
 
 ---
