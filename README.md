@@ -1,6 +1,8 @@
 <div align="center">
   
   # 🧑🏻‍💻 Murilo Manfredini
+
+  **`Analista de Suporte N1`**
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=236AD3&center=true&vCenter=true&width=500&lines=Suporte+Técnico+N1;Infraestrutura+de+TI;Estudante+de+Ciência+da+Computação;Desenvolvedor+Java+em+formação" alt="Typing SVG" />
 
