@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>🧑🏻‍💻 Murilo Manfredini</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=236AD3&center=true&vCenter=true&width=500&lines=Analista+de+Suporte+N1;Graduando+em+Ciência+da+Computação;Entusiasta+Backend+Java" alt="Typing SVG" />
+  
+  # 🧑🏻‍💻 Murilo Manfredini
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=236AD3&center=true&vCenter=true&width=500&lines=Suporte+Técnico+N1;Infraestrutura+de+TI;Estudante+de+Ciência+da+Computação;Desenvolvedor+Java+em+formação" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/murilo-manfredini-160879240" target="_blank">
