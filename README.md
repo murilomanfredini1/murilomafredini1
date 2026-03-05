@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=236AD3&center=true&vCenter=true&width=500&lines=Suporte+Técnico+N1;Infraestrutura+de+TI;Estudante+de+Ciência+da+Computação;Desenvolvedor+Java+em+formação" alt="Murilo Manfredini - Typing SVG" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/murilo-manfredini-160879240" target="_blank">
+  <a href="https://www.linkedin.com/in/murilo-manfredinii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:seuemail@exemplo.com">
